@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/bin/Debug/net7.0/ajredrez
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/bin/Debug/net7.0/ajredrez.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/bin/Debug/net7.0/ajredrez.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/bin/Debug/net7.0/ajredrez.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/bin/Debug/net7.0/ajredrez.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/refint/ajredrez.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ajredrez.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ajredrez/obj/Debug/net7.0/ref/ajredrez.dll

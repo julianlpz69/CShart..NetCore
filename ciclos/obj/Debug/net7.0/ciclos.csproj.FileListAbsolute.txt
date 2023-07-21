@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/bin/Debug/net7.0/ciclos
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/bin/Debug/net7.0/ciclos.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/bin/Debug/net7.0/ciclos.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/bin/Debug/net7.0/ciclos.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/bin/Debug/net7.0/ciclos.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/refint/ciclos.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ciclos.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/ciclos/obj/Debug/net7.0/ref/ciclos.dll

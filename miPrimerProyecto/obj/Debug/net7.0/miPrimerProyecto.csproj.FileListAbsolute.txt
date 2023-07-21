@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/bin/Debug/net7.0/miPrimerProyecto
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/bin/Debug/net7.0/miPrimerProyecto.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/bin/Debug/net7.0/miPrimerProyecto.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/bin/Debug/net7.0/miPrimerProyecto.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/bin/Debug/net7.0/miPrimerProyecto.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/refint/miPrimerProyecto.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/miPrimerProyecto.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/Debug/net7.0/ref/miPrimerProyecto.dll

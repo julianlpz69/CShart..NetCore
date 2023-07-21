@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/bin/Debug/net7.0/arreglos
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/bin/Debug/net7.0/arreglos.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/bin/Debug/net7.0/arreglos.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/bin/Debug/net7.0/arreglos.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/bin/Debug/net7.0/arreglos.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/refint/arreglos.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/arreglos.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/arreglos/obj/Debug/net7.0/ref/arreglos.dll
