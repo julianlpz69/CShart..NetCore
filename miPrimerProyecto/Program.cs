@@ -1,8 +1,13 @@
-﻿using System.Numerics;
+﻿using System.Collections;
 
-class Program{
+ArrayList miArrayList = new ArrayList();
+miArrayList.Add(10);
+miArrayList.Add("Hola");
+miArrayList.Add(5.75);
+miArrayList.Add("Mundo");
 
-    private static void Main(string[] args){
-        Console.WriteLine("SSSSs");
-    }
+// Recorrer el ArrayList con un foreach
+foreach (var elemento in miArrayList)
+{      
+        Console.WriteLine(elemento);
 }
