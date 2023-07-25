@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/bin/Debug/net7.0/Actividad-Dicc
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/bin/Debug/net7.0/Actividad-Dicc.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/bin/Debug/net7.0/Actividad-Dicc.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/bin/Debug/net7.0/Actividad-Dicc.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/bin/Debug/net7.0/Actividad-Dicc.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/refint/Actividad-Dicc.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/Actividad-Dicc.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/Actividad-Dicc/obj/Debug/net7.0/ref/Actividad-Dicc.dll

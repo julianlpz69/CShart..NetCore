@@ -1,0 +1,5 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/dicc-Objetos/obj/Debug/net7.0/dicc-Objetos.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/dicc-Objetos/obj/Debug/net7.0/dicc-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/dicc-Objetos/obj/Debug/net7.0/dicc-Objetos.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/dicc-Objetos/obj/Debug/net7.0/dicc-Objetos.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/dicc-Objetos/obj/Debug/net7.0/dicc-Objetos.csproj.CoreCompileInputs.cache
