@@ -68,8 +68,8 @@ class Program {
                 default:
                     Console.WriteLine("/nOpción inválida. Inténtalo de nuevo.");
                     break;
-       }} while (opcion != 5);
-    }
+}} while (opcion != 5);
+}
 
     static void MostrarMenu() {
         Console.WriteLine("\nMenú de opciones:");

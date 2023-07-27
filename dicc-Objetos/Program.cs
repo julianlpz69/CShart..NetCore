@@ -21,7 +21,7 @@ class Program {
 
 
 
-class Program {
+class Programs {
     static void Main() {
     Dictionary<string, int> miDiccionario = new Dictionary<string, int>();
 

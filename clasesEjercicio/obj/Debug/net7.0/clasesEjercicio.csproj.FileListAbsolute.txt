@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/bin/Debug/net7.0/clasesEjercicio
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/bin/Debug/net7.0/clasesEjercicio.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/bin/Debug/net7.0/clasesEjercicio.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/bin/Debug/net7.0/clasesEjercicio.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/bin/Debug/net7.0/clasesEjercicio.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/refint/clasesEjercicio.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/clasesEjercicio.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/Debug/net7.0/ref/clasesEjercicio.dll
