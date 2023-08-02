@@ -4,33 +4,25 @@
 
 using System;
 
-public class Puerta
+    class Usuario
 {
+    // Propiedades de la clase Usuario
+    public string Nombre;
+    public string Edad ;
+    public string Hobbies;
 
-    int ancho;     // Ancho en centimetros
-    int alto;      // Alto en centimetros
-    int color;     // Color en formato RGB
-    bool abierta;  // Abierta o cerrada
-
-    public void Abrir() 
+    // Constructor de la clase Usuario
+    public Usuario(string nombre, string edad, string hobbies)
     {
-        abierta = true;
+        Nombre = nombre;
+        Edad = edad;
+        Hobbies = hobbies;
     }
+}
 
-    public void Cerrar() 
-    {
-        abierta = false;
-    }
 
-    public void MostrarEstado() 
-    {
-        Console.WriteLine("Ancho: {0}", ancho);
-        Console.WriteLine("Alto: {0}", alto);
-        Console.WriteLine("Color: {0}", color);
-        Console.WriteLine("Abierta: {0}", abierta);
-    }
 
-} // Final de la clase Puerta   
+ // Final de la clase Puerta   
 
 
 public class Ejemplo_06_02a
@@ -38,16 +30,10 @@ public class Ejemplo_06_02a
 
     public static void Main()
     {
-        Puerta p = new Puerta();
 
-        Console.WriteLine("Valores iniciales...");
-        p.MostrarEstado();
+        Usuario usuario = new Usuario("nombressssss","edadsssssssss","hobbiessssssssssss");
 
-        Console.WriteLine();
+        usuario.Nombre = "ssss";
+        Console.WriteLine($"{usuario.Nombre}");
 
-        Console.WriteLine("Vamos a abrir...");
-        p.Abrir();
-        p.MostrarEstado();
-    }
-
-}
+}}

@@ -1,0 +1,15 @@
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/bin/Debug/net7.0/BetPlay
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/bin/Debug/net7.0/BetPlay.deps.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/bin/Debug/net7.0/BetPlay.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/bin/Debug/net7.0/BetPlay.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/bin/Debug/net7.0/BetPlay.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/refint/BetPlay.dll
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.pdb
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/ref/BetPlay.dll

@@ -126,6 +126,8 @@
 
     Producto producto = new Producto(codigo,nombre,precio,inventario,clientes);
 
+    Console.WriteLine($"{producto.Nombre}");
+
     Program.productos.Add(codigo, producto);
 }
 
