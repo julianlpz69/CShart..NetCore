@@ -11,7 +11,8 @@ namespace BetPlay
         Console.WriteLine("\n ---------------------- Menu Principal -----------------");
         Console.WriteLine("\n1. Regitro De Plantel");
         Console.WriteLine("2. Consulta de Datos");
-        Console.WriteLine("3. Salir");
+        Console.WriteLine("3. Ligas");
+        Console.WriteLine("4. Salir");
     }
 
     public void menuPlantel(){
@@ -32,6 +33,19 @@ namespace BetPlay
         Console.WriteLine("2. Buscar Delantes de Cada Equipo");
         Console.WriteLine("3. Buscar Entrenadores por Equipo");
         Console.WriteLine("4. Regresar al Menu Principal");
+    }
+
+    public void menuLiga(){
+        Console.Clear();
+        Console.WriteLine("\n ---------------------- Ligas -----------------");
+        Console.WriteLine("\n1. Agregar Liga");
+        Console.WriteLine("2. Mostrar Ligas");
+        Console.WriteLine("3. Regresar al Menu Principal");
+    }
+
+    public int PedirOpcion() {
+        Console.Write("\nElige una opción:\t");
+        return Convert.ToInt32(Console.ReadLine());
     }
 
 

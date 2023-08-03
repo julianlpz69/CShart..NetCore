@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/BetPlay.csproj": {}
+    "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\BetPlay\\BetPlay.csproj": {}
   },
   "projects": {
-    "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/BetPlay.csproj": {
+    "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\BetPlay\\BetPlay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/BetPlay.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\BetPlay\\BetPlay.csproj",
         "projectName": "BetPlay",
-        "projectPath": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/BetPlay.csproj",
-        "packagesPath": "/home/arteN01-050/.nuget/packages/",
-        "outputPath": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/",
+        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\BetPlay\\BetPlay.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\BetPlay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arteN01-050/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

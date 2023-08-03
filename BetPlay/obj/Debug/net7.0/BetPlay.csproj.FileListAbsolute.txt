@@ -13,3 +13,18 @@
 /home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.pdb
 /home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/BetPlay.genruntimeconfig.cache
 /home/arteN01-050/Desktop/JJLA/CShart..NetCore/BetPlay/obj/Debug/net7.0/ref/BetPlay.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\refint\BetPlay.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.pdb
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\bin\Debug\net7.0\BetPlay.exe
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\bin\Debug\net7.0\BetPlay.deps.json
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\bin\Debug\net7.0\BetPlay.runtimeconfig.json
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\bin\Debug\net7.0\BetPlay.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\bin\Debug\net7.0\BetPlay.pdb
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\BetPlay.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\BetPlay\obj\Debug\net7.0\ref\BetPlay.dll
