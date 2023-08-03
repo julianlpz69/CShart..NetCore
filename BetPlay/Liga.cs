@@ -15,7 +15,9 @@ namespace BetPlay
 
         }
 
-        public Liga(){}
+        public Liga(){
+                this.equipos = new Dictionary<string,Equipo>();
+        }
 
         public void agregarLiga(){
 
@@ -42,6 +44,7 @@ namespace BetPlay
             Console.ReadKey();
         }
 
+        
         
 
     }

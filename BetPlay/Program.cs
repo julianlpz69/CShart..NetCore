@@ -3,7 +3,12 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+
+        
+
         Dictionary<int,Liga> Ligas = new Dictionary<int,Liga>();
+
+    
 
 
         Menu inicio = new Menu();
@@ -24,9 +29,14 @@ internal class Program
                             nuevoEquipo.RegistrarEquipo(Ligas,nuevoEquipo);
                             break;
                         case 2:
-                        
-
+                            Jugador nuevoJugador = new Jugador();
+                            nuevoJugador.registrarJugador(Ligas,nuevoJugador,inicio.recorrerEquipos(Ligas));
                             break;
+
+                        case 3:
+                            Entrenador nuevoEntrenador = new Entrenador();
+                            nuevoEntrenador.agregarEntrenador(Ligas,nuevoEntrenador,inicio.recorrerEquipos(Ligas));   
+                            break; 
                         default:
                             Console.WriteLine("/nOpción inválida. Inténtalo de nuevo.");
                             break;}
@@ -40,12 +50,13 @@ internal class Program
 
                     switch (opcion) {
                         case 1:
-                            inicio.menuPlantel();
-                            Console.ReadLine();
+                            string equipo = inicio.recorrerEquipos(Ligas);
+                            inicio.mostrarJugadores(Ligas,equipo);
+                            
                             break;
                         case 2:
-                            inicio.menuConsultar();
-                            Console.ReadLine();
+                            string equipo2 = inicio.recorrerEquipos(Ligas);
+                            inicio.mostrarJugadoresDelantes(Ligas,equipo2);
                             break;
                         default:
                             Console.WriteLine("/nOpción inválida. Inténtalo de nuevo.");
@@ -54,7 +65,7 @@ internal class Program
 
 
 
-                  case 3://------------------------------------------------------------------------------------------------------------------------
+                case 3://------------------------------------------------------------------------------------------------------------------------
                     inicio.menuLiga();
                     int opcion2 = inicio.PedirOpcion();
                     Liga nuevaLiga = new Liga();
@@ -82,5 +93,6 @@ internal class Program
                     Console.WriteLine("/nOpción inválida. Inténtalo de nuevo.");
                     break;
 }} while (opcion != 4);
+
 }
 }
