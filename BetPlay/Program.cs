@@ -10,7 +10,7 @@ internal class Program
 
     
 
-
+    
         Menu inicio = new Menu();
         int opcion;
 
@@ -21,9 +21,9 @@ internal class Program
             switch (opcion) {
                 case 1: //---------------------------------------------------------------------------------------------
                     inicio.menuPlantel();
-                    opcion =inicio.PedirOpcion();
+                    int opcions =inicio.PedirOpcion();
 
-                    switch (opcion) {
+                    switch (opcions) {
                         case 1:
                             Equipo nuevoEquipo = new Equipo();
                             nuevoEquipo.RegistrarEquipo(Ligas,nuevoEquipo);
@@ -37,6 +37,10 @@ internal class Program
                             Entrenador nuevoEntrenador = new Entrenador();
                             nuevoEntrenador.agregarEntrenador(Ligas,nuevoEntrenador,inicio.recorrerEquipos(Ligas));   
                             break; 
+                        case 4:
+                            Masajista nuevaMasajista = new Masajista();
+                            nuevaMasajista.agregarMasajista(Ligas,nuevaMasajista,inicio.recorrerEquipos(Ligas));
+                            break;
                         default:
                             Console.WriteLine("/nOpción inválida. Inténtalo de nuevo.");
                             break;}
@@ -46,9 +50,9 @@ internal class Program
 
                 case 2://------------------------------------------------------------------------------------------------------------------------
                     inicio.menuConsultar();
-                    opcion = inicio.PedirOpcion();
+                    int opcio = inicio.PedirOpcion();
 
-                    switch (opcion) {
+                    switch (opcio) {
                         case 1:
                             string equipo = inicio.recorrerEquipos(Ligas);
                             inicio.mostrarJugadores(Ligas,equipo);
@@ -57,6 +61,10 @@ internal class Program
                         case 2:
                             string equipo2 = inicio.recorrerEquipos(Ligas);
                             inicio.mostrarJugadoresDelantes(Ligas,equipo2);
+                            break;
+                        case 3:
+
+                            inicio.mostrarEntrenadores(Ligas,inicio.recorrerEquipos(Ligas));
                             break;
                         default:
                             Console.WriteLine("/nOpción inválida. Inténtalo de nuevo.");

@@ -50,6 +50,7 @@ namespace BetPlay
         
 
         public string recorrerEquipos(Dictionary<int,Liga> Ligas){
+            Console.Clear();
 
                 foreach (var elemento in Ligas.Values){      
                     foreach(var elemen in elemento.equipos.Keys){
@@ -109,5 +110,76 @@ namespace BetPlay
             }
             Console.ReadKey();
         }
-    }
+
+
+        public void mostrarEntrenadores(Dictionary<int,Liga> Ligas ,string equipo){
+            Console.Clear();
+
+            foreach (var elemento in Ligas.Values){      
+                foreach(var elemen in elemento.equipos.Values){
+                    
+                    if(elemen.nombre == equipo){
+                        try{
+                            Console.WriteLine($"Id\tNombre\tEspecialiad\tCodigo Federacion");
+                            foreach(var jugador in elemen.entrenadores.Values){
+                                Console.WriteLine($"\n{jugador.id}\t{jugador.nombre}\t{jugador.especialidad}\t\t{jugador.codigoFederacion}");
+                            }
+
+
+                        }catch{
+                            Console.Write($"\nEl Equipo No tiene jugadores Registrados");
+                        }
+                    }
+                }
+            }
+            Console.ReadKey();
+        }  
+
+
+        public void comprarJugador(string equipo,Dictionary<int,Liga> Ligas){
+            Console.Clear();
+        
+            Console.WriteLine($"\nIngrese el ID del Jugador");
+            int id = int.Parse(Console.ReadLine());
+
+
+            foreach (var elemento in Ligas.Values){      
+                foreach(var elemen in elemento.equipos.Values){
+                    
+                    if(elemen.nombre == equipo){
+                        try{
+                                Jugador jugador = elemen.jugadores[id]; 
+                                elemen.jugadores.Remove(id);
+
+                                string nuevoEquipo = recorrerEquipos(Ligas);
+
+                                foreach (var elementoss in Ligas.Values){      
+                                    foreach(var ell in elementoss.equipos.Values){
+                                        
+                                        if(ell.nombre == nuevoEquipo){
+                                        
+                                            ell.jugadores.Add(jugador);
+
+                                            Console.Write($"\nEl Jugador a sido vendido ha {ell.nombre} Exitosamente");
+                                            Console.ReadKey();
+
+                                        }
+                                    }
+                                }
+
+
+                        }catch{
+                            Console.Write($"\nEl Equipo No tiene ese jugador Registrados");
+                        }
+                    }
+                }
+            }
+        }
+
+
+
+
+
+
+    }  
 }

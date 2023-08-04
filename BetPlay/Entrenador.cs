@@ -40,7 +40,7 @@ namespace BetPlay
                         Console.Write("\nIngresa el Codigo de Federacion de Entrenador\t");
                         codigoFederacion = long.Parse(Console.ReadLine());
 
-                        Console.Write("\nIngresa la Posicion del Entrenador\t");
+                        Console.Write("\nIngresa la Especialidad del Entrenador\t");
                         especialidad = Console.ReadLine();
 
                         elemens.entrenadores.Add(id,nuevoJugador);

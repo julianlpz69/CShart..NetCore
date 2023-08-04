@@ -20,7 +20,7 @@ namespace BetPlay
         }
 
         public void agregarLiga(){
-
+        Console.Clear();
             
         Console.Write("\nIngresa el Nombre de la Liga\t");
         this.nombre = Console.ReadLine();
