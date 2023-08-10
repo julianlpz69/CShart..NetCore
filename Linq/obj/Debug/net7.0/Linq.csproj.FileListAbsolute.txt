@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\bin\Debug\net7.0\Linq.exe
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\bin\Debug\net7.0\Linq.deps.json
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\bin\Debug\net7.0\Linq.runtimeconfig.json
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\bin\Debug\net7.0\Linq.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\bin\Debug\net7.0\Linq.pdb
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\refint\Linq.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.pdb
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\Linq.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Linq\obj\Debug\net7.0\ref\Linq.dll

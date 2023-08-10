@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj",
-      "projectName": "Automotriz",
-      "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj",
+      "projectName": "Linq",
+      "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\obj\\",
+      "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"

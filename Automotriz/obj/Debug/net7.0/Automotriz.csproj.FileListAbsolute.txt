@@ -1,0 +1,5 @@
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Automotriz\obj\Debug\net7.0\Automotriz.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Automotriz\obj\Debug\net7.0\Automotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Automotriz\obj\Debug\net7.0\Automotriz.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Automotriz\obj\Debug\net7.0\Automotriz.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Automotriz\obj\Debug\net7.0\Automotriz.csproj.CoreCompileInputs.cache

@@ -161,7 +161,7 @@ namespace BetPlay
                                             ell.jugadores.Add(jugador);
 
                                             Console.Write($"\nEl Jugador a sido vendido ha {ell.nombre} Exitosamente");
-                                            Console.ReadKey();
+                                            Console.ReadKey()
 
                                         }
                                     }
