@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/nDpB9ZVjvvXAQpbS9L0qRizXSVqfjn3jE7+H9BcvOt2ivt+Y94l6bgqe67avtZrswSmCYIQRChrUpuowbzYtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\Downloads\\Tienda\\Tienda\\Tienda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj": {}
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj",
         "projectName": "Automotriz",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\Automotriz.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Automotriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"

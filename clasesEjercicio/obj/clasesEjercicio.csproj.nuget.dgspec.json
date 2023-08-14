@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/clasesEjercicio.csproj": {}
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\clasesEjercicio\\clasesEjercicio.csproj": {}
   },
   "projects": {
-    "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/clasesEjercicio.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\clasesEjercicio\\clasesEjercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/clasesEjercicio.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\clasesEjercicio\\clasesEjercicio.csproj",
         "projectName": "clasesEjercicio",
-        "projectPath": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/clasesEjercicio.csproj",
-        "packagesPath": "/home/arteN01-050/.nuget/packages/",
-        "outputPath": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/clasesEjercicio/obj/",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\clasesEjercicio\\clasesEjercicio.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\clasesEjercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arteN01-050/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,57 @@
+[
+  {
+    "CodProducto": 1,
+    "Nombre": "Carne",
+    "Stock": 10,
+    "StockMin": 1,
+    "StockMax": 20,
+    "PrecioVenta": 1000.0,
+    "PrecioCompra": 20.0,
+    "IdCategoria": 1,
+    "Subtotal": 10000.0
+  },
+  {
+    "CodProducto": 2,
+    "Nombre": "Queso",
+    "Stock": 34,
+    "StockMin": 2,
+    "StockMax": 333,
+    "PrecioVenta": 20.0,
+    "PrecioCompra": 15.0,
+    "IdCategoria": 2,
+    "Subtotal": 680.0
+  },
+  {
+    "CodProducto": 3,
+    "Nombre": "Carne Molida",
+    "Stock": 9,
+    "StockMin": 2,
+    "StockMax": 90,
+    "PrecioVenta": 900.0,
+    "PrecioCompra": 90.0,
+    "IdCategoria": 1,
+    "Subtotal": 0.0
+  },
+  {
+    "CodProducto": 23,
+    "Nombre": "sopas",
+    "Stock": 10,
+    "StockMin": 5,
+    "StockMax": 15,
+    "PrecioVenta": 20000.0,
+    "PrecioCompra": 16000.0,
+    "IdCategoria": 2,
+    "Subtotal": 0.0
+  },
+  {
+    "CodProducto": 2,
+    "Nombre": "3",
+    "Stock": 3,
+    "StockMin": 4,
+    "StockMax": 4,
+    "PrecioVenta": 22.0,
+    "PrecioCompra": 22.0,
+    "IdCategoria": 1,
+    "Subtotal": 0.0
+  }
+]

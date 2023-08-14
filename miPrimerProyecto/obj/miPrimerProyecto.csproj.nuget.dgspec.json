@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/miPrimerProyecto.csproj": {}
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\miPrimerProyecto\\miPrimerProyecto.csproj": {}
   },
   "projects": {
-    "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/miPrimerProyecto.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\miPrimerProyecto\\miPrimerProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/miPrimerProyecto.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\miPrimerProyecto\\miPrimerProyecto.csproj",
         "projectName": "miPrimerProyecto",
-        "projectPath": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/miPrimerProyecto.csproj",
-        "packagesPath": "/home/arteN01-050/.nuget/packages/",
-        "outputPath": "/home/arteN01-050/Desktop/JJLA/CShart..NetCore/miPrimerProyecto/obj/",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\miPrimerProyecto\\miPrimerProyecto.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\miPrimerProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arteN01-050/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

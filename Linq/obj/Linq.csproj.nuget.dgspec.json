@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj": {}
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj",
         "projectName": "Linq",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\Linq.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Pagina Githud\\CShart..NetCore\\Linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"

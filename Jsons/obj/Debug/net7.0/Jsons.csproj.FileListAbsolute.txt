@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\bin\Debug\net7.0\Jsons.exe
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\bin\Debug\net7.0\Jsons.deps.json
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\bin\Debug\net7.0\Jsons.runtimeconfig.json
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\bin\Debug\net7.0\Jsons.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\bin\Debug\net7.0\Jsons.pdb
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\refint\Jsons.dll
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.pdb
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\Jsons.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Escritorio\Pagina Githud\CShart..NetCore\Jsons\obj\Debug\net7.0\ref\Jsons.dll
